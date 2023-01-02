@@ -1,4 +1,3 @@
-third_party {
-  # would be NOTICE save for scripts/image_signing/lib/shflags/shflags
-  license_type: RESTRICTED
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4eb12e5cf9fb967f2edcd2d67337a3339823284785a52dde410d68cbb1f607d
+size 114

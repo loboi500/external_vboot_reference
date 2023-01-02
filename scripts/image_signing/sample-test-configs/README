@@ -1,4 +1,3 @@
-These are sample configurations used with the test scripts located in the
-parent directory. Note that these are not maintained in this git with complete
-or necessarily current production data for Chrome OS. They serve to provide
-examples of the configuraiton syntax.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb66afddc4c118f359fb95054d7dc72c0efac609a7a7c91f7e9c84a6918b0b10
+size 267

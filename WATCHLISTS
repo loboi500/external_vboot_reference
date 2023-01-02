@@ -1,14 +1,3 @@
-# See http://dev.chromium.org/developers/contributing-code/watchlists for
-# a description of this file's format.
-# Please keep these keys in alphabetical order.
-
-{
-  'WATCHLIST_DEFINITIONS': {
-    'all': {
-      'filepath': '.',
-    },
-  },
-  'WATCHLISTS': {
-    'all': ['gauravsh@chromium.org', 'rspangler@chromium.org', 'semenzato@chromium.org', 'wfrichar@chromium.org']
-  },
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e644dcecd69e426a0c59968c2f9c646efc08a1c24919bc8cb7902b5148773238
+size 380
